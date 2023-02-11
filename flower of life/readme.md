@@ -4,6 +4,9 @@ Creates layers of rings using Anemone library and [this scaled ring cluster](htt
 
 Has toggleable outer ring.
 
+This can't be used as a component due to the way Anemone operates. The looping won't render unless you've got the Anemone components open directly.
+Potentially you can use Fast Loop components within Anemone but I did not have luck.
+
 ![Examples](https://github.com/Sara-Cagle/Grasshopper/blob/main/flower%20of%20life/flower%20of%20life%20examples.png)
 
 ![Grasshopper](https://github.com/Sara-Cagle/Grasshopper/blob/main/flower%20of%20life/flower%20of%20life%20gh.png)
